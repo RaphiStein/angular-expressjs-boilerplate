@@ -1,0 +1,17 @@
+{
+  "extends": "tslint:recommended",
+  "rules": {
+    "no-console": [false],
+    "trailing-comma": [true],
+    "quotemark": [false],
+    "variable-name": {
+      "options": ["allow-leading-underscore"]
+    }
+  },
+  "ordered-imports": [
+    true,
+    {
+      "import-sources-order": "any"
+    }
+  ]
+}

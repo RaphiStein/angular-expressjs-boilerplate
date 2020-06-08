@@ -1,0 +1,6 @@
+{
+  "name": "Angular Node/ExpressJS Boilerplate",
+  "description": "Simple boilerplate of ExpressJS + Angular project",
+  "repository": "https://github.com/RaphiStein/angular-express-boilerplate",
+  "keywords": ["angular", "express", "node"]
+}
